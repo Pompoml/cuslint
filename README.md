@@ -1,4 +1,4 @@
-# 全网首发基于 UAST Lint
+# 全网首发基于 UAST Lint 
 # 使用方法
 
 1. 新建Java Module ,添加 lint-api 依赖
